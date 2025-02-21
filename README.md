@@ -16,5 +16,6 @@ W bashu: pip install google-api-python-client
 Bo nie zrobiłem klucza i service account
 
 << Rezultat
+
 ![image](https://github.com/user-attachments/assets/39aed8e3-4b29-41ad-a394-67e7c7033a06)
 
