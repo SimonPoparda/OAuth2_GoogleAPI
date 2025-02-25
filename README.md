@@ -10,15 +10,15 @@ This project focuses on uploading a file on Google Drive using Google APIs and P
 
 << I've added service account, as well as created an API key
 ![image](https://github.com/user-attachments/assets/1096283f-dab1-4cb7-9f31-cd61e0a01dff)
-![image](https://github.com/user-attachments/assets/14a5d989-5ea8-4324-a48e-1d94e24e6f52)
-![image](https://github.com/user-attachments/assets/07e1cc94-f196-4409-ac71-d6b30db192db)
+![2_druga_strzalka](https://github.com/user-attachments/assets/d53884c6-2fa0-496d-9995-804f600fa176)
+![image](https://github.com/user-attachments/assets/adc12621-00f3-4383-b26d-28056415fbaf)
 ![image](https://github.com/user-attachments/assets/6e125472-007c-4a6b-98b8-c6daee5411fd)
 
 << Created repo, installed required packages:
 `pip install google-api-python-client`
 
 << Written the code:
-```
+```python
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
 from googleapiclient.http import MediaFileUpload
@@ -53,6 +53,6 @@ upload_photo('Blue_Nature.jpg')
 Resulted from not creating service account and API key properly
 
 << Result:
+![image](https://github.com/user-attachments/assets/0b0a8903-4020-43f3-8bdd-5920ac471e84)
 
-![image](https://github.com/user-attachments/assets/39aed8e3-4b29-41ad-a394-67e7c7033a06)
 
