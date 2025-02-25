@@ -53,6 +53,7 @@ upload_photo('Blue_Nature.jpg')
 Resulted from not creating service account and API key properly
 
 << Result:
+
 ![image](https://github.com/user-attachments/assets/672d9210-91c4-468b-98f0-2b683d1538f1)
 
 
