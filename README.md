@@ -5,14 +5,14 @@ This project focuses on uploading a file on Google Drive using Google APIs and P
 ## Process
 << I've created an application on Google Cloud
 
-![image](https://github.com/user-attachments/assets/4ed2451e-cebc-4bc4-96fd-bade96a048ee)
-![image](https://github.com/user-attachments/assets/a7160ad6-7968-4baf-8abb-de78ed1c58da)
+![image](https://github.com/user-attachments/assets/35394cd7-a3c9-4efb-9c71-a72c3c7a60d7)
+![image](https://github.com/user-attachments/assets/ada0112a-ab37-47ce-adeb-755e369f19f7)
 
 << I've added service account, as well as created an API key
-![image](https://github.com/user-attachments/assets/1096283f-dab1-4cb7-9f31-cd61e0a01dff)
-![2_druga_strzalka](https://github.com/user-attachments/assets/d53884c6-2fa0-496d-9995-804f600fa176)
-![image](https://github.com/user-attachments/assets/adc12621-00f3-4383-b26d-28056415fbaf)
-![image](https://github.com/user-attachments/assets/6e125472-007c-4a6b-98b8-c6daee5411fd)
+![image](https://github.com/user-attachments/assets/a7e1dad9-2a3f-4da3-9c09-02dcac32094a)
+![image](https://github.com/user-attachments/assets/dd3773b4-245e-4496-b5d1-9b650ad0cc7f)
+![image](https://github.com/user-attachments/assets/62fbafe8-b47f-4688-a5d7-6918249bf095)
+
 
 << Created repo, installed required packages:
 `pip install google-api-python-client`
@@ -53,6 +53,7 @@ upload_photo('Blue_Nature.jpg')
 Resulted from not creating service account and API key properly
 
 << Result:
-![image](https://github.com/user-attachments/assets/0b0a8903-4020-43f3-8bdd-5920ac471e84)
+![image](https://github.com/user-attachments/assets/672d9210-91c4-468b-98f0-2b683d1538f1)
+
 
 
