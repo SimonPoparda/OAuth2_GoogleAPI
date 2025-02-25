@@ -9,10 +9,10 @@ This project focuses on uploading a file on Google Drive using Google APIs and P
 ![image](https://github.com/user-attachments/assets/ada0112a-ab37-47ce-adeb-755e369f19f7)
 
 << I've added service account, as well as created an API key
+![image](https://github.com/user-attachments/assets/554753e6-a3fa-4086-a567-bffb5424c296)
+![image](https://github.com/user-attachments/assets/d2c8ca45-fb60-423e-bf1a-671cd0769084)
 ![image](https://github.com/user-attachments/assets/a7e1dad9-2a3f-4da3-9c09-02dcac32094a)
 ![image](https://github.com/user-attachments/assets/dd3773b4-245e-4496-b5d1-9b650ad0cc7f)
-![image](https://github.com/user-attachments/assets/62fbafe8-b47f-4688-a5d7-6918249bf095)
-
 
 << Created repo, installed required packages:
 `pip install google-api-python-client`
