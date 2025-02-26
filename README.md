@@ -5,14 +5,20 @@ This project focuses on uploading a file on Google Drive using Google APIs and P
 ## Process
 << I've created an application on Google Cloud
 
-![image](https://github.com/user-attachments/assets/35394cd7-a3c9-4efb-9c71-a72c3c7a60d7)
-![image](https://github.com/user-attachments/assets/ada0112a-ab37-47ce-adeb-755e369f19f7)
+![1](https://github.com/user-attachments/assets/8babeb44-1c8c-4f7b-9fc2-011fe5d30892)
+
+![2](https://github.com/user-attachments/assets/1263e060-409d-4666-83f9-ea47efa9ef47)
+
 
 << I've added service account, as well as created an API key
-![image](https://github.com/user-attachments/assets/554753e6-a3fa-4086-a567-bffb5424c296)
-![image](https://github.com/user-attachments/assets/d2c8ca45-fb60-423e-bf1a-671cd0769084)
-![image](https://github.com/user-attachments/assets/a7e1dad9-2a3f-4da3-9c09-02dcac32094a)
-![image](https://github.com/user-attachments/assets/dd3773b4-245e-4496-b5d1-9b650ad0cc7f)
+
+![3](https://github.com/user-attachments/assets/08b8e2d8-6f85-4783-8b28-4e08a36757d0)
+
+![4](https://github.com/user-attachments/assets/d6e4a9d4-58e9-47d4-8bcc-66c575642811)
+
+![5](https://github.com/user-attachments/assets/60120b07-84ed-4762-849e-54ce65464bd7)
+
+![6](https://github.com/user-attachments/assets/8aea270a-dbc8-4ccb-84f9-79ef5b2b194f)
 
 << Created repo, installed required packages:
 `pip install google-api-python-client`
