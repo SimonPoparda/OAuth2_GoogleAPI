@@ -57,8 +57,9 @@ upload_photo('Blue_Nature.jpg')
 ```
 
 << Result:
+![image](https://github.com/user-attachments/assets/83b5aca4-3016-4938-9168-2001a20338f0)
 
-![image](https://github.com/user-attachments/assets/672d9210-91c4-468b-98f0-2b683d1538f1)
+
 
 
 
