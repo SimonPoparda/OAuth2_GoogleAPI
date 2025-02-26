@@ -7,9 +7,6 @@ import creds
 SCOPES = creds.SCOPES
 SERVICE_ACCOUNT_FILE = creds.SERVICE_ACCOUNT_FILE
 PARENT_FOLDER_ID = creds.PARENT_FOLDER_ID
-file_ids = creds.file_ids
-file_names = creds.file_names
-
 
 def authenticate():
     creds = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
