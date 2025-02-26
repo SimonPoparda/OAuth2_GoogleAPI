@@ -6,8 +6,6 @@ import creds
 SCOPES = creds.SCOPES
 SERVICE_ACCOUNT_FILE = creds.SERVICE_ACCOUNT_FILE
 PARENT_FOLDER_ID = creds.PARENT_FOLDER_ID
-file_ids = creds.file_ids
-file_names = creds.file_names
 
 def authenticate():
     creds = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
@@ -27,16 +25,6 @@ def upload_photo(file_path):
         media_body=file_path,
     ).execute()
 
-def download_photos():
-    creds = authenticate()
-    service = build('drive', 'v3', credentials=creds)
+upload_photo(creds.picture_upload)
 
-    for file_id, file_name in zip(file_ids, file_names):
-        request = service.files().get_media(fileId=file_id)
-        with open(file_name, 'wb') as file:
-            file.write(request.execute())
-        print(f"Downloaded: {file_name}")
-
-upload_photo('Blue_Nature.jpg')
-download_photos()
 
