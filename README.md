@@ -1,5 +1,5 @@
 # OAuth2.0 with Google API with Python
-This project focuses on uploading a file on Google Drive using Google APIs and Python
+This project focuses on uploading, listing, as well as downloading files from Google Drive using Google APIs and Python
 
 -----------------------------------------------------------------------------------------
 ## Process
